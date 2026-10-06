@@ -2,6 +2,8 @@
 
 This repository contains comprehensive machine learning pipelines, bioinformatic analyses, miRNA-target interaction networks, and molecular dynamics simulation workflows for predicting and analyzing Pancreatic Cancer biomarkers, drug resistance, and therapeutic compounds.
 
+The research is performed using published data from GEO. No clinical experiments are performed.
+
 ## Repository Structure
 
 ```text
